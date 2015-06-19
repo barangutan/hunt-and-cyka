@@ -75,3 +75,17 @@ Riki has permanent invisibility from the start. He breaks out of invisibility wh
 As mentioned already, Riki’s objective is to destroy 4 out of the 5 towers on the map. His base attack starts out low but he gains a certain percentage increase every time he kills a radiant player. More kills = easier to take down towers. This gives an incentive for the hunted to become the hunter!
 
 Riki’s healthbar is visible to every player on the radiant. By implementing this mechanic, radiant players will be able to tell when Riki is within close proximity to one of them, as their Heartbleed passive will slowly reduce his healthbar. Unfortunately they won’t be able to tell which of the team he’s close to, so they must utilize their abilities to reveal him and deal damage by right-clicking him.
+
+## Potential Issues
+
+A balanced game would ideally consist of radiant having enough incentive to split up and hunt for Riki across the entire map, while dire implements the necessary cunning to stay hidden and take down the towers.
+
+Some things that have to be addressed:
+
+Radiant travelling around the map as four. 
+
+Pros: 
+* they’re easily able to detect Riki when he’s nearby
+* they’re able to quickly burst him down
+Cons:
+* they cover less ground and may take a lot of time to find him. Leaving several of the towers open for quick takedown unless they have TP scrolls.
